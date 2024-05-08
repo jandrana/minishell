@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Extras
+.DS_Store
+*.icloud
+.vscode
+
